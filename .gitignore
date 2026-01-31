@@ -17,6 +17,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 *.properties
+logback-spring.xml
 ### IntelliJ IDEA ###
 .idea
 *.iws
